@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DriveRatingApp
-build_property.ProjectDir = /Users/HPhifer/RiderProjects/Drive_App_Starter_v2/DriveRatingApp/DriveRatingApp/
+build_property.ProjectDir = C:\Users\RRaczak\source\repos\DevBuild\Assessment4-REDUX\DriveRatingApp\DriveRatingApp\
